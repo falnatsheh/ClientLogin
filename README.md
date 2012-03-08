@@ -1,6 +1,6 @@
 ## ClientLogin
 
-A helper class to retrieve authentication token from google. 
+Java helper class to retrieve authentication token from google. 
 
 ### Methods
  1- `String getAuthToken(String accountType, String email,String password, String service, String source)`
